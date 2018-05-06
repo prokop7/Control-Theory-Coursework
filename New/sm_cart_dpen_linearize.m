@@ -29,7 +29,7 @@ set_param(mdl,'SimMechanicsOpenEditorOnUpdate','off');
 
 % Set targets to linearization operating point
 % Operating Point - Inverted upright position
-set_param(plant, 'q1', '180.0');
+set_param(plant, 'q1', '0.0');
 set_param(plant, 'w1', '0.0');
 set_param(plant, 'q2', '0.0');
 set_param(plant, 'w2', '0.0');
