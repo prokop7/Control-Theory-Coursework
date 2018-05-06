@@ -1,3 +1,3 @@
 # Control-Theory-Coursework
-Simulation of Inverted pendulum on a caret
+Simulation of Inverted pendulum on a cart
 
