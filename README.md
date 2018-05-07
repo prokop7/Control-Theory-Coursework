@@ -2,6 +2,9 @@
 Simulation of Inverted pendulum on a cart
 
 ## Getting started
+### Requirements
+Matlab, Simulink and Simscape Multibody v2
+
 #### For running a double inverted pendulum, open file
 
 `./New/Inverted_pendulum.slx`
